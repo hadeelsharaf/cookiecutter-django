@@ -1,5 +1,5 @@
-Cookiecutter Django
-=======================
+Cookiecutter Django: geodjango draft
+=====================================
 
 .. image:: https://travis-ci.org/pydanny/cookiecutter-django.svg?branch=master
     :target: https://travis-ci.org/pydanny/cookiecutter-django?branch=master
@@ -19,6 +19,9 @@ Cookiecutter Django
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/ambv/black
     :alt: Code style: black
+
+
+This project is a **fork** of Cookiecutter Django used to keep track of the changes needed for **geodjango** in **docker** files 
 
 Powered by Cookiecutter_, Cookiecutter Django is a framework for jumpstarting
 production-ready Django projects quickly.
